@@ -1,3 +1,3 @@
 # Granja
 
-Programación orientada a objetos
+Programación Orientada a Objetos
