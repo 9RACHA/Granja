@@ -1,3 +1,3 @@
 # Granja
 
-Programación Orientada a Objetos
+Protected, constructor, virtual, base, override, definir variables , crear un objeto
