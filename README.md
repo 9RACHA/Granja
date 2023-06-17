@@ -20,5 +20,9 @@ Se utiliza para indicar que un método en una clase derivada está sobrescribien
 ### Definir variables:
 Debes especificar el tipo de dato de la variable, seguido de su nombre y, opcionalmente, puedes asignarle un valor inicial.
 
+### Crear un objeto:
+Debes definir una clase, crear una instancia de esa clase utilizando el operador new y luego puedes acceder a las propiedades y métodos del objeto mediante la variable de instancia.
+Persona persona = new Persona();
+
 
 
