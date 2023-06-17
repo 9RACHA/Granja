@@ -17,5 +17,8 @@ se utiliza para acceder a los miembros de la clase base desde una clase derivada
 #### Override:
 se utiliza para indicar que un método en una clase derivada está sobrescribiendo un método de la clase base. Esta anotación es necesaria para establecer una relación de reemplazo entre el método de la clase base y su implementación en la clase derivada. Antes tendrá que tener viertual en el metodo previamentes
 
+#### Definir variables:
+debes especificar el tipo de dato de la variable, seguido de su nombre y, opcionalmente, puedes asignarle un valor inicial.
+
 
 
